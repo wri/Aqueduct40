@@ -13,9 +13,9 @@ Relevant Global Water Risk Indicators.” Technical Note. Washington, DC: World 
 
 The [Aqueduct 4.0 data download](https://www.wri.org/data/aqueduct-global-maps-40-data) features multiple water-related risk datasets:
 
-1. Baseline Annual
-2. Baseline Monthly
-3. Future Projections
+1. [Baseline Annual](https://github.com/wri/Aqueduct40/blob/master/data_dictionary_water-risk-atlas.md#baseline-annual)
+2. [Baseline Monthly](https://github.com/wri/Aqueduct40/blob/master/data_dictionary_water-risk-atlas.md#baseline-monthly)
+3. [Future Projections](https://github.com/wri/Aqueduct40/blob/master/data_dictionary_water-risk-atlas.md#future-annual)
 
 ## Baseline Annual
 
