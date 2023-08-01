@@ -18,12 +18,13 @@ The [Aqueduct 4.0 country rankings data download]( https://www.wri.org/data/aque
 2. [Provincial Rankings Future](https://github.com/wri/Aqueduct40/blob/master/data_dictionary_country-rankings.md#provincial-future)
 
 ## Brief Methodology
-Aqueduct indicators are transformed from the sub-basin level to administrative borders a weighted average approach. The methodology requires three inputs: (1) gridded weights to define where water is being used, (2) an Aqueduct indicator score to rescale, and (3) target regions (country and provincial borders). 
+Aqueduct™ indicators are transformed from the sub-basin level to administrative borders a weighted average approach. The methodology requires three inputs: (1) gridded weights to define where water is being used, (2) an Aqueduct™ indicator score to rescale, and (3) target regions (country and provincial borders). 
 ### Gridded weights
 For baseline water stress and drought risk, we used sectoral and total gross water demand as weights (see [Aqueduct 4.0 Technical Note](https://www.wri.org/publication/aqueduct-40)). The gross demand data is used to indicate where human need for water is greatest—it is also where socioeconomic dependency for water is most critical. Areas with higher water demand will have more influence over the final aggregated score. We use sectoral demand in addition to total demand to understand water risk as it pertains to specific actors (like the agricultural sector’s exposure to water risk).  The sectors include: domestic, industrial, irrigation and livestock. 
+
 For riverine flood risk, gridded population is used as weights. See the [Aqueduct Floods]( https://www.wri.org/research/aqueduct-floods-methodology) reference for more info.
 
-| Source indicator      | Total gross demand     | Domestic gross demand     | Industrial gross demand     | Irrigation gross demand     | Livestock gross demand     | Population | 
+| Source indicator      | Total gross demand     | Domestic demand     | Industrial demand     | Irrigation demand     | Livestock demand     | Population | 
 |-----------------------|------------------------|---------------------------|-----------------------------|-----------------------------|----------------------------|------------| 
 | Baseline water stress | :white_check_mark:     | :white_check_mark:        | :white_check_mark:          |  :white_check_mark:         |  :white_check_mark:        |            | 
 | Drought risk          | :white_check_mark:     | :white_check_mark:        | :white_check_mark:          |  :white_check_mark:         |  :white_check_mark:        |            | 
@@ -41,7 +42,7 @@ Aqueduct™ data is aggregated up to two spatial units: countries and sub-nation
 
 ## Country Baseline
 
-This dataset contains select Aqueduct indicators aggregated to the administrative level 0—country level. 
+This dataset contains select Aqueduct™ indicators aggregated to the administrative level 0—country level. 
 
 The data can be filtered using the following fields: "identifiers", "indicators", and "weights. 
 
@@ -76,7 +77,7 @@ Score is the aggregated water risk value in numeric form. Label translates the s
 
 ## Provincial Baseline
 
-This dataset contains select Aqueduct indicators aggregated to the administrative level 1—provincial level. 
+This dataset contains select Aqueduct™ indicators aggregated to the administrative level 1—provincial level. 
 
 The data can be filtered using the following fields: "identifiers", "indicators", and "weights. 
 
@@ -113,7 +114,7 @@ Score is the aggregated water risk value in numeric form. Label translates the s
 
 ## Country Future
 
-This dataset contains select projected Aqueductindicators aggregated to the administrative level 0—country level. 
+This dataset contains select projected Aqueduct™ indicators aggregated to the administrative level 0—country level. 
 
 The data can be filtered using the following fields: "identifiers", "indicators", "scenarios", "years", and "weights. 
 
@@ -163,7 +164,7 @@ Full| Period |
 
 ## Provincial Future
 
-This dataset contains select projected Aqueduct indicators aggregated to the administrative level 1—provincial level. 
+This dataset contains select projected Aqueduct™ indicators aggregated to the administrative level 1—provincial level. 
 
 The data can be filtered using the following fields: "identifiers", "indicators", "scenarios", "years", and "weights. 
 
