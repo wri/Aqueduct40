@@ -14,14 +14,19 @@ This repository holds important metadata and FAQ for data featured on the Aquedu
 
 ## Resources:
 
-### data_dictionary_country-rankings.md
-Data dictionary for the administrative rankings downloads. This includes country rankings (baseline and future), and provincal (baseline and future).
+### production_scripts
+This folder contains the scripts used to transform PCR-GLOBWB outputs into Aqueduct 4.0 indicators. 
+
+### Log of Changes
+Foldering containing summary of changes among Aqueduct versions. 
 
 ### data_dictionary_water-risk-atlas.md
 Data dictionary for the water risk atlas downloads. This includes baseline annual, baseline monthly, and future annual data. 
 
+### data_dictionary_country-rankings.md
+Data dictionary for the administrative rankings downloads. This includes country rankings (baseline and future), and provincal (baseline and future).
+
 ### data_FAQ
 Frequently Asked Questions about the data on the Water Risk Atlas and Country Rankings tools. 
 
-### production_scripts
-This folder contains the scripts used to transform PCR-GLOBWB outputs into Aqueduct 4.0 indicators. 
+
