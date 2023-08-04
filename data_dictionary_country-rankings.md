@@ -4,8 +4,7 @@ Creative Commons 4.0 License through December 31, 2023.
 
 See [Aqueduct 4.0 Technical Note](https://www.wri.org/publication/aqueduct-40) Chapter 5 for more information on the data and methodology.
 
-Suggested Citation: S. Kuzma, M. Bierkens, S. Lakshman, et. al. 2023. “Aqueduct 4.0: Updated Decision-
-Relevant Global Water Risk Indicators.” Technical Note. Washington, DC: World Resources Institute. Forthcoming.  
+Suggested Citation: Kuzma, S., M.F.P. Bierkens, S. Lakshman, T. Luo, L. Saccoccia, E. H. Sutanudjaja, and R. Van Beek. 2023. “Aqueduct 4.0: Updated decision-relevant global water risk indicators.” Technical Note. Washington, DC: World Resources Institute. Available online at: doi.org/10.46830/writn.23.00061.  
 
 
 # Data Dictionary
