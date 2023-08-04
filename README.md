@@ -17,7 +17,7 @@ This repository holds important metadata and FAQ for data featured on the Aquedu
 ### production_scripts
 This folder contains the scripts used to transform PCR-GLOBWB outputs into Aqueduct 4.0 indicators. 
 
-### Log of Changes
+### log_of_changes
 Foldering containing summary of changes among Aqueduct versions. 
 
 ### data_dictionary_water-risk-atlas.md
