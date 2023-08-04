@@ -201,7 +201,7 @@ Future projections includes 4 risk indicators, as well as projected supply and d
 |**iv**| Interannual variability       | Aqueduct 4.0 |   
 |**sv**| Seasonal variability          | Aqueduct 4.0 |   
 
-### Value Type: 
+### Unit of Measurement: 
  
 | Short | Full                                    | 
 |-------|-----------------------------------------|
