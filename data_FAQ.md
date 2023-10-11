@@ -9,7 +9,7 @@
 1.	[Data Sources and Availability](https://github.com/wri/Aqueduct40/blob/master/data_FAQ.md#data-sources-and-availability)
 2.	[Update Reasoning and Methodology](https://github.com/wri/Aqueduct40/blob/master/data_FAQ.md#update-reasoning-and-methodology)
 3.	[Water Risk Interpretation](https://github.com/wri/Aqueduct40/blob/master/data_FAQ.md#water-risk-interpretation)
-4.	[Water Stress](https://github.com/wri/Aqueduct40/blob/master/data_FAQ.md#dwater-stress)
+4.	[Water Stress](https://github.com/wri/Aqueduct40/blob/master/data_FAQ.md#water-stress)
 5.	[Groundwater Data](https://github.com/wri/Aqueduct40/blob/master/data_FAQ.md#groundwater-data)
 6.	[Corporate Targets and Usage](https://github.com/wri/Aqueduct40/blob/master/data_FAQ.md#corporate-targets-and-usage)
 7.	[Other](https://github.com/wri/Aqueduct40/blob/master/data_FAQ.md#other)
