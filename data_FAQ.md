@@ -85,7 +85,7 @@
 *We determine the annual water stress score by using a weighted average of monthly values, with the total demand serving as the weighting factor. Essentially, months characterized by higher demand have a higher influence on the annual stress value, as they coincide with periods of heightened human water necessity and, consequently, increased socioeconomic reliance on water resources. This approach results in a different representation compared to a straightforward division of annual supply by annual withdrawal.*
 
 #### Q. What does a raw value of 9999 mean? What about -9999?
-*A raw value of 9999 indicates a severe water scarcity in a sub-basin, signifying that the available supply is nearly exhausted while the demand remains persistent. This value is assigned to sub-basins where supply remains less than half of the monthly arid definition (0.001 meter/month) for at least six months, and it is applied uniformly in such cases.
+*A raw value of 9999 indicates a severe water scarcity in a sub-basin, signifying that the available supply is nearly exhausted while the demand remains persistent. This value is assigned to sub-basins where supply remains less than half of the monthly arid definition (0.001 meter/month) for at least six months, and it is applied uniformly in such cases. Theses are given a score of 5.
 Conversely, a value of -9999 is indicative of a lack of data, meaning that there were insufficient raw data inputs to compute the risk level for that specific sub-basin.*
 
 ### Groundwater Data
