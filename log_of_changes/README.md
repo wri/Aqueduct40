@@ -1,6 +1,6 @@
 # Aqueduct 4.0 Log of Changes
 
-This dataset is licensed in accordance with the terms of  a creative commons license ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) through December 31, 2023 . Any use after that date will require a new license from WRI, information about which will be posted on this website prior to expiration of the prior license. 
+This dataset is licensed in accordance with the terms of a creative commons license (CC BY 4.0).
 
 Suggested Citation: Kuzma, S., M.F.P. Bierkens, S. Lakshman, T. Luo, L. Saccoccia, E. H. Sutanudjaja, and R. Van Beek. 2023. “Aqueduct 4.0: Updated decision-relevant global water risk indicators.” Technical Note. Washington, DC: World Resources Institute. Available online at: [doi.org/10.46830/writn.23.00061](https://doi.org/10.46830/writn.23.00061).
 
